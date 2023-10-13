@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Programs &#8211; frictional-university</title>
+	<atom:link href="/index.php/programs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Its a frictional university</description>
+	<lastBuildDate>Fri, 06 Oct 2023 11:38:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>Lamp</title>
+		<link>/index.php/programs/lamp/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 06 Oct 2023 11:38:30 +0000</pubDate>
+				<guid isPermaLink="false">http://127.0.0.1/wordpress/?post_type=program&#038;p=47</guid>
+
+					<description><![CDATA[There are many different approaches to getting access to WordPress, but some setup processes are more complex than others. This tutorial is intended for those who desire to install and administer a WordPress instance on an unmanaged cloud server via the command line. Though this approach requires more steps than a ready-made WordPress installation, it [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>There are many different approaches to getting access to WordPress, but some setup processes are more complex than others. This tutorial is intended for those who desire to install and administer a WordPress instance on an unmanaged cloud server via the command line. Though this approach requires more steps than a ready-made WordPress installation, it offers administrators greater control over their WordPress environment.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tech</title>
+		<link>/index.php/programs/tech/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 06 Oct 2023 11:37:11 +0000</pubDate>
+				<guid isPermaLink="false">http://127.0.0.1/wordpress/?post_type=program&#038;p=45</guid>
+
+					<description><![CDATA[There are many different approaches to getting access to WordPress, but some setup processes are more complex than others. This tutorial is intended for those who desire to install and administer a WordPress instance on an unmanaged cloud server via the command line. Though this approach requires more steps than a ready-made WordPress installation, it [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>There are many different approaches to getting access to WordPress, but some setup processes are more complex than others. This tutorial is intended for those who desire to install and administer a WordPress instance on an unmanaged cloud server via the command line. Though this approach requires more steps than a ready-made WordPress installation, it offers administrators greater control over their WordPress environment.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WordPress</title>
+		<link>/index.php/programs/wordpress/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 06 Oct 2023 11:38:04 +0000</pubDate>
+				<guid isPermaLink="false">http://127.0.0.1/wordpress/?post_type=program&#038;p=46</guid>
+
+					<description><![CDATA[There are many different approaches to getting access to WordPress, but some setup processes are more complex than others. This tutorial is intended for those who desire to install and administer a WordPress instance on an unmanaged cloud server via the command line. Though this approach requires more steps than a ready-made WordPress installation, it [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>There are many different approaches to getting access to WordPress, but some setup processes are more complex than others. This tutorial is intended for those who desire to install and administer a WordPress instance on an unmanaged cloud server via the command line. Though this approach requires more steps than a ready-made WordPress installation, it offers administrators greater control over their WordPress environment.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

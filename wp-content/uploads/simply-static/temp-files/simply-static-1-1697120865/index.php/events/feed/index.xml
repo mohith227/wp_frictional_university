@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Events &#8211; frictional-university</title>
+	<atom:link href="/index.php/events/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Its a frictional university</description>
+	<lastBuildDate>Fri, 06 Oct 2023 13:25:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>Tech Meetup</title>
+		<link>/index.php/events/tech-meetup/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 06 Oct 2023 07:38:48 +0000</pubDate>
+				<guid isPermaLink="false">http://127.0.0.1/wordpress/?post_type=event&#038;p=38</guid>
+
+					<description><![CDATA[There are many different approaches to getting access to WordPress, but some setup processes are more complex than others. This tutorial is intended for those who desire to install and administer a WordPress instance on an unmanaged cloud server via the command line. Though this approach requires more steps than a ready-made WordPress installation, it [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>There are many different approaches to getting access to WordPress, but some setup processes are more complex than others. This tutorial is intended for those who desire to install and administer a WordPress instance on an unmanaged cloud server via the command line. Though this approach requires more steps than a ready-made WordPress installation, it offers administrators greater control over their WordPress environment.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WordPress MeetUp</title>
+		<link>/index.php/events/wordpress-meetup/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 06 Oct 2023 07:38:26 +0000</pubDate>
+				<guid isPermaLink="false">http://127.0.0.1/wordpress/?post_type=event&#038;p=37</guid>
+
+					<description><![CDATA[WordPress is a popular, open-source content management system (CMS) that allows users to create, customize, and manage content on their website. A CMS provides the basic infrastructure to build a website, which is useful for users who may not have the knowledge to build and code their own website from scratch. The WordPress CMS has many customization [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>WordPress is a popular, open-source <em>content management system (CMS)</em> that allows users to create, customize, and manage content on their website. A CMS provides the basic infrastructure to build a website, which is useful for users who may not have the knowledge to build and code their own website from scratch. The WordPress CMS has many customization tools, such as an administrative dashboard with a user-friendly interface to create new web pages, add media, and more. For these reasons, WordPress is one of the most used CMS in the market today.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>LAMP MeetUp</title>
+		<link>/index.php/events/lamp-meetup/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 06 Oct 2023 07:38:07 +0000</pubDate>
+				<guid isPermaLink="false">http://127.0.0.1/wordpress/?post_type=event&#038;p=36</guid>
+
+					<description><![CDATA[This tutorial will be using a LAMP (Linux, Apache, MySQL, and PHP) stack, which is one option for a server architecture that supports WordPress by providing the Linux operating system, Apache web server, MySQL database, and PHP programming language. We’ll install and set up WordPress via LAMP on a Linux Ubuntu 22.04 server.]]></description>
+										<content:encoded><![CDATA[<p>This tutorial will be using a LAMP (<strong>L</strong>inux, <strong>A</strong>pache, <strong>M</strong>ySQL, and <strong>P</strong>HP) stack, which is one option for a server architecture that supports WordPress by providing the Linux operating system, Apache web server, MySQL database, and PHP programming language. We’ll install and set up WordPress via LAMP on a Linux Ubuntu 22.04 server.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

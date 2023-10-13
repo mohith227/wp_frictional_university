@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; frictional-university</title>
+	<atom:link href="/index.php/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Its a frictional university</description>
+	<lastBuildDate>Mon, 09 Oct 2023 06:19:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>WordPress is cool</title>
+		<link>/index.php/2023/10/09/wordpress-is-cool/</link>
+					<comments>/index.php/2023/10/09/wordpress-is-cool/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 09 Oct 2023 06:19:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://127.0.0.1/wordpress/?p=67</guid>
+
+					<description><![CDATA[WordPress (also known as WP or WordPress.org) is a web content management system. It was originally created as a tool to publish blogs but has evolved to support publishing other web content, including more traditional websites, mailing lists and Internet forum, media galleries, membership sites, learning management systems and online stores. Available as free and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>WordPress (also known as WP or WordPress.org) is a web content management system. It was originally created as a tool to publish blogs but has evolved to support publishing other web content, including more traditional websites, mailing lists and Internet forum, media galleries, membership sites, learning management systems and online stores. Available as free and open-source software, WordPress is among the most popular content management systems – it was used by 42.8% of the top 10 million websites as of October 2021.</p>
+
+
+
+<p>WordPress is written in PHP hypertext preprocessor language and paired with a MySQL or MariaDB database. Features include a plugin architecture and a template system, referred to within WordPress as &#8220;Themes&#8221;.</p>
+
+
+
+<p>To function, WordPress has to be installed on a web server, either as part of an Internet hosting service or on a computer running the WordPress software package.</p>
+
+
+
+<p>WordPress was released on May 27, 2003, by its founders, American developer Matt Mullenweg and English developer Mike Little. WordPress Foundation owns WordPress, WordPress projects, and other related trademarks.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2023/10/09/wordpress-is-cool/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Test-2</title>
+		<link>/index.php/2023/10/05/test-2/</link>
+					<comments>/index.php/2023/10/05/test-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 05 Oct 2023 07:49:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://127.0.0.1/wordpress/?p=10</guid>
+
+					<description><![CDATA[WordPress is a popular, open-source&#160;content management system (CMS)&#160;that allows users to create, customize, and manage content on their website. A CMS provides the basic infrastructure to build a website, which is useful for users who may not have the knowledge to build and code their own website from scratch. The WordPress CMS has many customization [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>WordPress is a popular, open-source&nbsp;<em>content management system (CMS)</em>&nbsp;that allows users to create, customize, and manage content on their website. A CMS provides the basic infrastructure to build a website, which is useful for users who may not have the knowledge to build and code their own website from scratch. The WordPress CMS has many customization tools, such as an administrative dashboard with a user-friendly interface to create new web pages, add media, and more. For these reasons, WordPress is one of the most used CMS in the market today.</p>
+
+
+
+<p>There are many different approaches to getting access to WordPress, but some setup processes are more complex than others. This tutorial is intended for those who desire to install and administer a WordPress instance on an unmanaged cloud server via the command line. Though this approach requires more steps than a ready-made WordPress installation, it offers administrators greater control over their WordPress environment.</p>
+
+
+
+<p>This tutorial will be using a LAMP (<strong>L</strong>inux,&nbsp;<strong>A</strong>pache,&nbsp;<strong>M</strong>ySQL, and&nbsp;<strong>P</strong>HP) stack, which is one option for a server architecture that supports WordPress by providing the Linux operating system, Apache web server, MySQL database, and PHP programming language. We’ll install and set up WordPress via LAMP on a Linux Ubuntu 22.04 server.</p>
+
+
+
+<p>Depending on your needs and goals, you may find other options that are more suitable. As open-source software, WordPress can be freely downloaded and installed, but to be available on the web, you will likely need to purchase cloud infrastructure and a domain name. Continue following this guide if you are interested in working through the server-side installation and setup of a WordPress site.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2023/10/05/test-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Test -1</title>
+		<link>/index.php/2023/10/05/test-1/</link>
+					<comments>/index.php/2023/10/05/test-1/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 05 Oct 2023 07:33:58 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://127.0.0.1/wordpress/?p=8</guid>
+
+					<description><![CDATA[WordPress is a popular, open-source&#160;content management system (CMS)&#160;that allows users to create, customize, and manage content on their website. A CMS provides the basic infrastructure to build a website, which is useful for users who may not have the knowledge to build and code their own website from scratch. The WordPress CMS has many customization [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>WordPress is a popular, open-source&nbsp;<em>content management system (CMS)</em>&nbsp;that allows users to create, customize, and manage content on their website. A CMS provides the basic infrastructure to build a website, which is useful for users who may not have the knowledge to build and code their own website from scratch. The WordPress CMS has many customization tools, such as an administrative dashboard with a user-friendly interface to create new web pages, add media, and more. For these reasons, WordPress is one of the most used CMS in the market today.</p>
+
+
+
+<p>There are many different approaches to getting access to WordPress, but some setup processes are more complex than others. This tutorial is intended for those who desire to install and administer a WordPress instance on an unmanaged cloud server via the command line. Though this approach requires more steps than a ready-made WordPress installation, it offers administrators greater control over their WordPress environment.</p>
+
+
+
+<p>This tutorial will be using a LAMP (<strong>L</strong>inux,&nbsp;<strong>A</strong>pache,&nbsp;<strong>M</strong>ySQL, and&nbsp;<strong>P</strong>HP) stack, which is one option for a server architecture that supports WordPress by providing the Linux operating system, Apache web server, MySQL database, and PHP programming language. We’ll install and set up WordPress via LAMP on a Linux Ubuntu 22.04 server.</p>
+
+
+
+<p>Depending on your needs and goals, you may find other options that are more suitable. As open-source software, WordPress can be freely downloaded and installed, but to be available on the web, you will likely need to purchase cloud infrastructure and a domain name. Continue following this guide if you are interested in working through the server-side installation and setup of a WordPress site.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2023/10/05/test-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/index.php/2023/09/29/hello-world/</link>
+					<comments>/index.php/2023/09/29/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 29 Sep 2023 07:41:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://127.0.0.1/wordpress/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2023/09/29/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
